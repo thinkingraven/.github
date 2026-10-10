@@ -2,8 +2,7 @@
 
 Teams everywhere are writing the same agent skills, rules and MCP configs, in every repo and for every tool, and nobody checks what they're allowed to do. We're building the tools to **see them, review them and share the good ones**, in the open.
 
-<a href="https://github.com/thinkingraven/rookery"><img src="https://raw.githubusercontent.com/thinkingraven/.github/main/profile/assets/card-rookery.png" width="49%" alt="rookery: find every AI agent skill in your repos, spot the duplicates, catch the risky ones. A CLI and GitHub Action for Claude Code, Codex, Cursor, Copilot, Gemini and MCP."></a>
-<a href="https://github.com/thinkingraven/brand"><img src="https://raw.githubusercontent.com/thinkingraven/.github/main/profile/assets/card-brand.png" width="49%" alt="brand: logo, colour, type and components, plus a DESIGN.md that agents can follow."></a>
+<a href="https://github.com/thinkingraven/rookery"><img src="https://raw.githubusercontent.com/thinkingraven/.github/main/profile/assets/rookery.png" width="100%" alt="rookery: find every AI agent skill in your repos, spot the duplicates, catch the risky ones. A CLI and GitHub Action for Claude Code, Codex, Cursor, Copilot, Gemini, Windsurf, MCP and skillshare."></a>
 
 **Now:** [rookery](https://github.com/thinkingraven/rookery), an inventory and security check for every agent skill across your repos.<br>
 **Next:** a registry to publish, review and measure the skills worth sharing across a company.

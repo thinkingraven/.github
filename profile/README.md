@@ -1,15 +1,14 @@
-<p>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://thinkingraven.github.io/brand/logos/final/thinkingraven-wordmark-bone.svg">
-    <img alt="thinking raven." src="https://thinkingraven.github.io/brand/logos/final/thinkingraven-wordmark-ink.svg" width="300">
-  </picture>
-</p>
+<a href="https://github.com/thinkingraven"><img src="https://raw.githubusercontent.com/thinkingraven/.github/main/profile/assets/banner.png" width="100%" alt="thinking raven. Open-source tools for AI agents. Tools for teams building with AI agents: find the skills your teams keep rebuilding, review what they can do, share the good ones."></a>
 
-**Tools for teams building with AI agents.** Find the skills your teams keep rebuilding, review what they're allowed to do, and share the good ones.
+Teams everywhere are writing the same agent skills, rules and MCP configs, in every repo and for every tool, and nobody checks what they're allowed to do. We're building the tools to **see them, review them and share the good ones**, in the open.
 
-| Project | |
-|---|---|
-| [**rookery**](https://github.com/thinkingraven/rookery) | Find every AI agent skill in your repos, spot the duplicates, catch the risky ones. Claude Code, Codex, Cursor, Copilot, Gemini, MCP, skillshare. |
-| [**brand**](https://github.com/thinkingraven/brand) | The Thinking Raven brand kit and design system, with a `DESIGN.md` written for humans and agents. |
+<a href="https://github.com/thinkingraven/rookery"><img src="https://raw.githubusercontent.com/thinkingraven/.github/main/profile/assets/card-rookery.png" width="49%" alt="rookery: find every AI agent skill in your repos, spot the duplicates, catch the risky ones. A CLI and GitHub Action for Claude Code, Codex, Cursor, Copilot, Gemini and MCP."></a>
+<a href="https://github.com/thinkingraven/brand"><img src="https://raw.githubusercontent.com/thinkingraven/.github/main/profile/assets/card-brand.png" width="49%" alt="brand: logo, colour, type and components, plus a DESIGN.md that agents can follow."></a>
 
-[thinkingraven.com](https://thinkingraven.com) · [X](https://x.com/thinkingravenai) · [LinkedIn](https://www.linkedin.com/company/thinking-raven-ai/) · [YouTube](https://www.youtube.com/@thinkingraven) · [hello@thinkingraven.com](mailto:hello@thinkingraven.com)
+**Now:** [rookery](https://github.com/thinkingraven/rookery), an inventory and security check for every agent skill across your repos.<br>
+**Next:** a registry to publish, review and measure the skills worth sharing across a company.
+
+[![X](https://img.shields.io/badge/X-%40thinkingravenai-2A2A33?style=flat-square&logo=x&logoColor=F3EFE6&labelColor=0F0F14)](https://x.com/thinkingravenai)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Thinking%20Raven-2A2A33?style=flat-square&labelColor=0F0F14)](https://www.linkedin.com/company/thinking-raven-ai/)
+[![YouTube](https://img.shields.io/badge/YouTube-%40thinkingraven-2A2A33?style=flat-square&logo=youtube&logoColor=F3EFE6&labelColor=0F0F14)](https://www.youtube.com/@thinkingraven)
+[![Email](https://img.shields.io/badge/Email-hello%40thinkingraven.com-2A2A33?style=flat-square&labelColor=0F0F14)](mailto:hello@thinkingraven.com)

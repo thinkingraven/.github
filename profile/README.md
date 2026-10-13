@@ -12,6 +12,5 @@ Teams everywhere are writing agent skills, rules and MCP configs, in every repo 
 [![Website](https://img.shields.io/badge/Web-thinkingraven.com-2A2A33?style=flat-square&labelColor=0F0F14)](https://thinkingraven.com)
 [![X](https://img.shields.io/badge/X-%40thinkingravenai-2A2A33?style=flat-square&logo=x&logoColor=F3EFE6&labelColor=0F0F14)](https://x.com/thinkingravenai)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Thinking%20Raven-2A2A33?style=flat-square&labelColor=0F0F14)](https://www.linkedin.com/company/thinking-raven-ai/)
-[![YouTube](https://img.shields.io/badge/YouTube-%40thinkingraven-2A2A33?style=flat-square&logo=youtube&logoColor=F3EFE6&labelColor=0F0F14)](https://www.youtube.com/@thinkingraven)
-[![Instagram](https://img.shields.io/badge/Instagram-%40thinking__raven__ai-2A2A33?style=flat-square&logo=instagram&logoColor=F3EFE6&labelColor=0F0F14)](https://www.instagram.com/thinking_raven_ai)
+[![Threads](https://img.shields.io/badge/Threads-%40thinking__raven__ai-2A2A33?style=flat-square&logo=threads&logoColor=F3EFE6&labelColor=0F0F14)](https://www.threads.com/@thinking_raven_ai)
 [![Email](https://img.shields.io/badge/Email-hello%40thinkingraven.com-2A2A33?style=flat-square&labelColor=0F0F14)](mailto:hello@thinkingraven.com)
